@@ -1,0 +1,15 @@
+{
+  "title": "Godwake",
+  "id": "godwake",
+  "system": "dnd5e",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "5.3.0",
+  "lastPlayed": "Sun May 03 2026 18:08:33 GMT+0500 (GMT+05:00)",
+  "playtime": 155047,
+  "description": "",
+  "flags": {}
+}
