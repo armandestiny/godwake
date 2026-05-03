@@ -1,0 +1,8 @@
+2026/05/03-13:57:21.467 3b78 Recovering log #133
+2026/05/03-13:57:21.477 3b78 Delete type=0 #133
+2026/05/03-13:57:21.477 3b78 Delete type=3 #131
+2026/05/03-18:08:34.045 4e90 Level-0 table #138: started
+2026/05/03-18:08:34.045 4e90 Level-0 table #138: 0 bytes OK
+2026/05/03-18:08:34.051 4e90 Delete type=0 #136
+2026/05/03-18:08:34.051 4e90 Manual compaction at level-0 from '!fog!MYaMyET2DK8TXGJJ' @ 72057594037927935 : 1 .. '!fog!MYaMyET2DK8TXGJJ' @ 0 : 0; will stop at (end)
+2026/05/03-18:08:34.051 4e90 Manual compaction at level-1 from '!fog!MYaMyET2DK8TXGJJ' @ 72057594037927935 : 1 .. '!fog!MYaMyET2DK8TXGJJ' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+2026/05/03-13:57:21.407 3b78 Recovering log #142
+2026/05/03-13:57:21.417 3b78 Delete type=0 #142
+2026/05/03-13:57:21.417 3b78 Delete type=3 #140
+2026/05/03-18:08:33.980 4e90 Level-0 table #147: started
+2026/05/03-18:08:33.981 4e90 Level-0 table #147: 0 bytes OK
+2026/05/03-18:08:33.984 4e90 Delete type=0 #145
+2026/05/03-18:08:33.991 4e90 Manual compaction at level-0 from '!messages!0Z84d0JLkXfjsm4w' @ 72057594037927935 : 1 .. '!messages!zU6HfiMtauqMf4GV' @ 0 : 0; will stop at (end)
+2026/05/03-18:08:33.991 4e90 Manual compaction at level-1 from '!messages!0Z84d0JLkXfjsm4w' @ 72057594037927935 : 1 .. '!messages!zU6HfiMtauqMf4GV' @ 0 : 0; will stop at (end)

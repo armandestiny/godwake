@@ -1,0 +1,8 @@
+2026/05/03-02:51:38.795 e34 Recovering log #136
+2026/05/03-02:51:38.803 e34 Delete type=0 #136
+2026/05/03-02:51:38.803 e34 Delete type=3 #134
+2026/05/03-02:54:03.996 2e08 Level-0 table #143: started
+2026/05/03-02:54:03.996 2e08 Level-0 table #143: 0 bytes OK
+2026/05/03-02:54:04.000 2e08 Delete type=0 #141
+2026/05/03-02:54:04.003 2e08 Manual compaction at level-0 from '!messages!0Z84d0JLkXfjsm4w' @ 72057594037927935 : 1 .. '!messages!zU6HfiMtauqMf4GV' @ 0 : 0; will stop at (end)
+2026/05/03-02:54:04.003 2e08 Manual compaction at level-1 from '!messages!0Z84d0JLkXfjsm4w' @ 72057594037927935 : 1 .. '!messages!zU6HfiMtauqMf4GV' @ 0 : 0; will stop at (end)
